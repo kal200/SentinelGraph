@@ -8,6 +8,12 @@ __pycache__/
 # Virtual environment
 venv/
 
+
+# Build / packaging artifacts
+build/
+dist/
+*.egg-info/
+
 # VSCode
 .vscode/
 
